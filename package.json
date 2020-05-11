@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/holgergp/PrivacyScreenPlugin-Storyboard.git"
+    "url": "git+https://github.com/sdirekt-app-developer/PrivacyScreenPlugin-Storyboard.git"
   },
   "keywords": [
     "privacy",
@@ -22,10 +22,10 @@
     "storyboard"
   ],
   "author": "Tommy-Carlos Willaims <tommy@devgeeks.org>",
-  "contributors": ["Holger Grosse-Plankermann <holger.grosse-plankermann@codecentric.de>"],
+  "contributors": ["Holger Grosse-Plankermann <holger.grosse-plankermann@codecentric.de>","Malte Basse <malte.basse@sparkassen-direkt.de>"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/holgergp/PrivacyScreenPlugin-Storyboard/issues"
+    "url": "https://github.com/sdirekt-app-developer/PrivacyScreenPlugin-Storyboard/issues"
   },
-  "homepage": "https://github.com/holgergp/PrivacyScreenPlugin-Storyboard#readme"
+  "homepage": "https://github.com/sdirekt-app-developer/PrivacyScreenPlugin-Storyboard#readme"
 }
