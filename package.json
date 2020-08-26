@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdirekt-app-developer/PrivacyScreenPlugin-Storyboard.git"
+    "url": "git+https://github.com/rooneyl/cordova-plugin-privacyscreen-storyboard.git"
   },
   "keywords": [
     "privacy",
@@ -22,7 +22,10 @@
     "storyboard"
   ],
   "author": "Tommy-Carlos Willaims <tommy@devgeeks.org>",
-  "contributors": ["Holger Grosse-Plankermann <holger.grosse-plankermann@codecentric.de>","Malte Basse <malte.basse@sparkassen-direkt.de>"],
+  "contributors": [
+    "Holger Grosse-Plankermann <holger.grosse-plankermann@codecentric.de>",
+    "Malte Basse <malte.basse@sparkassen-direkt.de>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sdirekt-app-developer/PrivacyScreenPlugin-Storyboard/issues"
